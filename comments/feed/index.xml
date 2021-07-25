@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Pure Carpathian Gravel</description>
-	<lastBuildDate>Fri, 16 Jul 2021 10:39:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Jul 2021 20:36:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>
