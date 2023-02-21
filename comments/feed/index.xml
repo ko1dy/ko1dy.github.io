@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Коментарі до Gravelion	</title>
+	Коментарі до GRAVELION	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Pure Carpathian Gravel</description>
-	<lastBuildDate>Fri, 05 Aug 2022 10:35:18 +0000</lastBuildDate>
+	<description>Первозданний Карпатский Гревел</description>
+	<lastBuildDate>Tue, 21 Feb 2023 11:44:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 </channel>
 </rss>

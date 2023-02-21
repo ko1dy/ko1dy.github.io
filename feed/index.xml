@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>Gravelion</title>
+	<title>GRAVELION</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Pure Carpathian Gravel</description>
-	<lastBuildDate>Fri, 05 Aug 2022 10:35:18 +0000</lastBuildDate>
+	<description>Первозданний Карпатский Гревел</description>
+	<lastBuildDate>Tue, 21 Feb 2023 11:44:23 +0000</lastBuildDate>
 	<language>uk</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2021/05/cropped-icon_g-32x32.png</url>
-	<title>Gravelion</title>
+	<title>GRAVELION</title>
 	<link></link>
 	<width>32</width>
 	<height>32</height>
