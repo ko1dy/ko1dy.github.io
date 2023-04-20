@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Різне &#8211; Medkova Bake</title>
+	<atom:link href="/shop/category/other/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Без цукру &#124; Низькокалорійні торти і десерти &#124; Київ</description>
+	<lastBuildDate>Mon, 17 Apr 2023 16:33:44 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Еклер</title>
+		<link>/shop/other/%d0%b5%d0%ba%d0%bb%d0%b5%d1%80/</link>
+		
+		<dc:creator><![CDATA[medkova]]></dc:creator>
+		<pubDate>Mon, 17 Apr 2023 16:25:24 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1614</guid>
+
+					<description><![CDATA[*ціна за 1 штуку. Мінімальне замовлення &#8211; 4 шт. Три смаки: &#8211; груша-дор блю. Заварний крем на пряженому молоці у поєднанні з грошовим пюре і сиром дор блю &#8211; шоколад-фундук. Заварний крем на пряженому молоці з додаванням шоколаду, шматочків смаженого фундука і фундучної пасти &#8211; полуничний. Заварний крем на пряженому молоці з полуничним соусом.]]></description>
+										<content:encoded><![CDATA[<p><strong>*ціна за 1 штуку. Мінімальне замовлення &#8211; 4 шт.</strong></p>
+<p>Три смаки:<br />
+&#8211; груша-дор блю. Заварний крем на пряженому молоці у поєднанні з грошовим пюре і сиром дор блю<br />
+&#8211; шоколад-фундук. Заварний крем на пряженому молоці з додаванням шоколаду, шматочків смаженого фундука і фундучної пасти<br />
+&#8211; полуничний. Заварний крем на пряженому молоці з полуничним соусом.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
