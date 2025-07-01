@@ -15,7 +15,7 @@
 	<xsl:variable name="has-lastmod" select="count( /sitemap:sitemapindex/sitemap:sitemap/sitemap:lastmod )" />
 
 	<xsl:template match="/">
-		<html lang="uk"  data-wp-dark-mode-preset="0">
+		<html lang="uk">
 			<head>
 				<title>XML-мапа сайту</title>
 				<style>

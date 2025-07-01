@@ -17,7 +17,7 @@
 	<xsl:variable name="has-priority"   select="count( /sitemap:urlset/sitemap:url/sitemap:priority )"   />
 
 	<xsl:template match="/">
-		<html lang="uk"  data-wp-dark-mode-preset="0">
+		<html lang="uk">
 			<head>
 				<title>XML-мапа сайту</title>
 				<style>
